@@ -1,0 +1,5 @@
+- Technical writing is a type of writing that informs, instructs, or directs a specific audience about a particular skill, technology, or product.
+- here are three key components to this definition: the "What", the "Who", and the "Why".
+- The ‘What’ refers to the skill, technology, or product that is being discussed in the writing. This could be anything from a software program or concept to a complex piece of machinery.
+- The "Who" refers to the specific audience the writing is intended for. This audience may include engineers, programmers, technicians, or other professionals who need to understand or use the skill, technology, or product in question.
+- Lastly, the “Why” is the purpose of the writing, which can be either to inform, instruct, or direct the audience. For example, step-by-step instruction on how to use a piece of technology, or information on the underlying concepts and theories behind a new technology.
