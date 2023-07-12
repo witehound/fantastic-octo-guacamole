@@ -7,3 +7,4 @@
 - Expertise, Technical writers are expected to possess a deep understanding of the subject matter they are writing about.
 - Purpose, The purpose of technical writing is to inform, instruct, or direct the reader in a clear and concise manner.
 - Audience, Technical writing is targeted toward a specific audience with a technical background and needs to understand or use the information presented.
+- Types of documents technical writers create User manuals, Release notes, Online help, Technical specifications, White Papers, Technical proposal and briefs, Technical reports, Knowledge base articles.
