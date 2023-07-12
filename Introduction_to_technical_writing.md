@@ -8,3 +8,11 @@
 - Purpose, The purpose of technical writing is to inform, instruct, or direct the reader in a clear and concise manner.
 - Audience, Technical writing is targeted toward a specific audience with a technical background and needs to understand or use the information presented.
 - Types of documents technical writers create User manuals, Release notes, Online help, Technical specifications, White Papers, Technical proposal and briefs, Technical reports, Knowledge base articles.
+- User manuals: These are documents that provide instructions on how to use a product or service, often including a list of features and step-by-step instructions.
+- Release notes: These documents provide information about new features, bug fixes, and other updates to a software product or system.
+- Online help: These are documents that provide users with context-sensitive information as they use a software product or system.
+- Technical specifications: These documents detail the technical features and capabilities of a software product or system.
+- White Papers: These are documents that provide a detailed analysis of a product or service.
+- Technical proposal and briefs: As a technical writer, you require a technical proposal or brief for every technical document you plan to write.
+- Technical reports: These are written to document research findings, test results, and other technical information.
+- Knowledge base articles: These are documents that provide step-by-step instructions on how to use a feature, product, or system.
