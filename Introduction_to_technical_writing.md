@@ -16,3 +16,9 @@
 - Technical proposal and briefs: As a technical writer, you require a technical proposal or brief for every technical document you plan to write.
 - Technical reports: These are written to document research findings, test results, and other technical information.
 - Knowledge base articles: These are documents that provide step-by-step instructions on how to use a feature, product, or system.
+- There are several advantages of being a technical writer, such as Consistent Learning, Intellectual challenge, Job Variety, Career Flexibility and Monetary compensation.
+- Consistent Learning: The tech industry is constantly evolving, which places a demand on technical writers to stay up-to-date and learn quickly.
+- Intellectual challenge: Technical writing involves more than just writing. It requires researching, understanding diverse technology, audience analysis, and problem-solving.
+- Job Variety: Technical writers work on a wide range of projects, including manuals, user guides, reports, proposals, and instructional materials.
+- Career Flexibility: Technical writing can be done remotely or on a freelance basis, providing flexibility in terms of work location and schedule.
+- Monetary compensation: Technical writers typically earn a competitive salary, especially those with experience and expertise in a particular field.
