@@ -1,0 +1,1 @@
+- The technical writing process is the step-by-step process followed by technical writers to create technical documentation. It typically involves the following stages Planning, Researching and Learning, Organization and Writing, Review and Editing and Publication.
