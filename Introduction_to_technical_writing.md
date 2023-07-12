@@ -6,3 +6,4 @@
 - There are several differences between technical writing and other forms of writing such as fiction, poetry, journalism, creative writing, etc. These differences can be categorized into Expertise, Purpose, and Audience.
 - Expertise, Technical writers are expected to possess a deep understanding of the subject matter they are writing about.
 - Purpose, The purpose of technical writing is to inform, instruct, or direct the reader in a clear and concise manner.
+-  Audience, Technical writing is targeted toward a specific audience with a technical background and needs to understand or use the information presented
